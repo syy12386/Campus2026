@@ -23,7 +23,10 @@
 | 小米 | [暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/) | 1/8 | 全国 | 已开启投递 |
 | 快手 | [暑期实习](https://campus.kuaishou.cn/#/campus/index) | 1/4 | 全国 | 即将开启 |
 | 拼多多 |[暑期实习](https://careers.pddglobalhr.net/campus) | 1/10 | 全国 | 已开启投递 | 
-| 全灵 |[日常实习](https://zq6mcys13b.feishu.cn/docx/WRevdXj5NoHCI0xWPH3cKzuHnnd) | 1/13 | 全国 | AI+游戏 |
+| 全灵 |[日常实习](https://www.zhipin.com/gongsi/job/fb232170d51123f71X192N-8FlA~.html?ka=seo_companys_open_joblist) | 1/13 | 深圳，杭州 | AI+游戏 已开启投递 |
+| 小红书 | [日常实习&暑期实习&REDstar 顶尖人才计划](https://job.xiaohongshu.com/campus) | 1/13 | 北京，上海，武汉，广州，深圳，杭州 | 已开启投递 |
+| 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 1/13 | 北京，上海，芜湖，重庆 | 已开启投递 |
+| 360 | [校园招聘&实习生招聘](https://360campus.zhiye.com/jobs) | 1/13 | 北京，南京，沈阳，深圳 | 已开启投递 |
 
 ### 游戏公司
 
@@ -33,6 +36,7 @@
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com/campus-recruitment/perfect-world/94767/#/) | 1/5 | 北京 | 已开启投递 |
 | 网易游戏 | [暑期实习](https://game.campus.163.com/position) | 1/8 | 杭州/广州 | 已开启投递 |
 | 腾讯游戏 | [暑期实习](https://join.qq.com/post.html?query=p_2) | 1/8 | 深圳/上海 | 已开启投递 |
+| 叠纸 | [NOVA训练营&校园招聘](https://career.papegames.com/campus/position/list?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | 1/13 | 上海 | 已开启投递 |
 
 ### 外企
 
@@ -48,7 +52,9 @@
 ### 机厂&&通信&&车厂&&IC
 
 | 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
-| ---- | ------------------ | -------- | ---- | ---- |
+| 小米 | [日常实习&暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/?keywords=&category=&location=&project=7194746444959334509&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=6AA3R7B) | 1/13 | 北京，南京，上海，武汉，巴黎，胡志明市，米兰 | 已开启投递 |
+| 吉利 | [日常实习](https://campus.geely.com/campus-recruitment/geely/78436/#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 1/13 | 全国 | 已开启投递 |
+
 
 ### 银行&&保险&&金融&&地产&&国企
 
