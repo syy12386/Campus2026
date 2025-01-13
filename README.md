@@ -23,6 +23,7 @@
 | 小米 | [暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/) | 1/8 | 全国 | 已开启投递 |
 | 快手 | [暑期实习](https://campus.kuaishou.cn/#/campus/index) | 1/4 | 全国 | 即将开启 |
 | 拼多多 |[暑期实习](https://careers.pddglobalhr.net/campus) | 1/10 | 全国 | 已开启投递 | 
+| 全灵 |[日常实习](https://zq6mcys13b.feishu.cn/docx/WRevdXj5NoHCI0xWPH3cKzuHnnd) | 1/13 | 全国 | AI+游戏 |
 
 ### 游戏公司
 
