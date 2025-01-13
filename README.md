@@ -52,6 +52,7 @@
 ### 机厂&&通信&&车厂&&IC
 
 | 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
+| ---- | ------------------ | -------- | ---- | ---- |
 | 小米 | [日常实习&暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/?keywords=&category=&location=&project=7194746444959334509&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=6AA3R7B) | 1/13 | 北京，南京，上海，武汉，巴黎，胡志明市，米兰 | 已开启投递 |
 | 吉利 | [日常实习](https://campus.geely.com/campus-recruitment/geely/78436/#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 1/13 | 全国 | 已开启投递 |
 
