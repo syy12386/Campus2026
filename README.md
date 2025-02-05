@@ -42,7 +42,7 @@
 
 | 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
 | ---- | ------------------ | -------- | ---- | ---- |
-| 微软 | [暑期实习](https://jobs.careers.microsoft.com/global/en/search?lc=China&lc=Hong%20Kong%20SAR&lc=Taiwan&exp=Students%20and%20graduates&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true) | 1/8 | 北京/苏州 | 已开启投递 |
+| 微软 | [暑期实习](https://jobs.careers.microsoft.com/global/en/search?lc=China&lc=Hong%20Kong%20SAR&lc=Taiwan&exp=Students%20and%20graduates&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true) | 2/22 | 北京/苏州 | 已开启投递 |
 | 苹果 | [暑期实习](https://jobs.apple.com/zh-cn/search?location=china-mainland) | 1/5 | 北京/上海 | 陆续开放中 |
 | 英特尔 | [暑期实习](https://chinacampus.jobs.intel.cn/) | 1/8 | 北京/上海/成都 | 已开启投递 |
 | IBM | [暑期实习](https://careers.ibm.com/job/search) | 1/6 | 北京/上海 | 陆续开放中 |
