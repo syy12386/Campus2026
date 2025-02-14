@@ -21,7 +21,7 @@
 | 网易 | [雷火暑期实习](https://leihuo.163.com/campus/#/intern) | 1/8 | 杭州 | 游戏部门已开启 |
 | 华为 | [暑期实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html) | 1/2 | 全国 | 已开启投递 |
 | 小米 | [暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/) | 1/8 | 全国 | 已开启投递 |
-| 快手 | [暑期实习](https://campus.kuaishou.cn/#/campus/index) | 1/4 | 全国 | 即将开启 |
+| 快手 | [暑期实习](https://campus.kuaishou.cn/#/campus/index) | 1/4 | 全国 | [广告算法日常实习可投递](https://mp.weixin.qq.com/s/hpDCHRSEdpdhe6jsxrRlDg) |
 | 拼多多 |[暑期实习](https://careers.pddglobalhr.net/campus) | 1/10 | 全国 | 已开启投递 | 
 | 全灵 |[日常实习](https://www.zhipin.com/gongsi/job/fb232170d51123f71X192N-8FlA~.html?ka=seo_companys_open_joblist) | 1/13 | 深圳，杭州 | AI+游戏 已开启投递 |
 | 小红书 | [日常实习&暑期实习&REDstar 顶尖人才计划](https://job.xiaohongshu.com/campus) | 1/13 | 北京，上海，武汉，广州，深圳，杭州 | 已开启投递 |
