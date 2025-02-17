@@ -27,7 +27,7 @@
 | 小红书 | [日常实习&暑期实习&REDstar 顶尖人才计划](https://job.xiaohongshu.com/campus) | 1/13 | 北京，上海，武汉，广州，深圳，杭州 | 已开启投递 |
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 1/13 | 北京，上海，芜湖，重庆 | 已开启投递 |
 | 360 | [校园招聘&实习生招聘](https://360campus.zhiye.com/jobs) | 1/13 | 北京，南京，沈阳，深圳 | 已开启投递 |
-| vivo | [春季校园招聘&暑期实习]（hr.vivo.com）| 2/15 | 东菀，北京，南京，上海，深圳，杭州，重庆，西安 | 已开启投递 |
+| vivo | [春季校园招聘&暑期实习]（https://hr.vivo.com）| 2/15 | 东菀，北京，南京，上海，深圳，杭州，重庆，西安 | 已开启投递 |
 
 ### 游戏公司
 
