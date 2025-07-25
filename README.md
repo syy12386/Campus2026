@@ -29,37 +29,48 @@
 
 > **校招时间说明：** 2026届校招通常在2025年7-9月开启，部分公司可能会有提前批。以下链接为各公司官方校招入口，具体开启时间请关注各公司官方通知。
 
+## 校招提前批
+
+> **提前批说明：** 以下为已确认开启2026届校招提前批的公司，具体投递时间请以各公司官方通知为准。
+
 ### 互联网 && AI
 
 | 公司     | 招聘状态&&投递链接                                                                                        | 更新日期   | 地点                                                             | 备注                                                                           |
 | -------- | --------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 腾讯     | [校招](https://join.qq.com/post.html?query=p_1)                                                           | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 阿里巴巴 | [校招](https://talent.alibaba.com/campus/position-list?campusType=graduate)                               | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 字节跳动 | [校招](https://jobs.bytedance.com/zh/position)                                                            | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 百度     | [校招](https://talent.baidu.com/jobs/list)                                                                | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 美团     | [校招](https://zhaopin.meituan.com/web/campus)                                                            | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 京东     | [校招](https://campus.jd.com/#/jobs)                                                                      | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 网易     | [校招](https://game.campus.163.com/position)                                                              | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 华为     | [校招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)                           | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 小米     | [校招](https://xiaomi.jobs.f.mioffice.cn/campus/)                                                         | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 快手     | [校招](https://campus.kuaishou.cn/#/campus/index)                                                         | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 拼多多   | [校招](https://careers.pddglobalhr.net/campus)                                                            | 2025/7/1   | 全国                                                             | 2026届校招预计7月开启                                                           |
-| 小红书   | [校招](https://job.xiaohongshu.com/campus)                                                                | 2025/7/1   | 北京，上海，武汉，广州，深圳，杭州                               | 2026届校招预计7月开启                                                           |
-| 哔哩哔哩 | [校招](https://jobs.bilibili.com/campus/positions?type=1)                                                 | 2025/7/1   | 北京，上海，芜湖，重庆                                           | 2026届校招预计7月开启                                                           |
-| 360      | [校招](https://360campus.zhiye.com/jobs)                                                                  | 2025/7/1   | 北京，南京，沈阳，深圳                                           | 2026届校招预计7月开启                                                           |
-| vivo     | [校招](https://hr.vivo.com)                                                                               | 2025/7/1   | 东菀，北京，南京，上海，深圳，杭州，重庆，西安                   | 2026届校招预计7月开启                                                           |
-| oppo     | [校招](https://careers.oppo.com/university/oppo/campus/post)                                              | 2025/7/1   | 深圳，东莞，北京，上海，成都，南京，重庆，杭州，武汉，西安，南昌 | 2026届校招预计7月开启                                                           |
+| 百度     | [校招提前批](https://talent.baidu.com/jobs/list)                                                          | 2025/7/20  | 全国                                                             | 2026届校招提前批已开启                                                         |
+| 腾讯     | [校招提前批](https://join.qq.com/post.html?query=p_1)                                                     | 2025/7/20  | 全国                                                             | 2026届校招提前批已开启                                                         |
+| 京东     | [校招提前批](https://campus.jd.com/#/jobs)                                                                | 2025/7/20  | 全国                                                             | 2026届校招提前批已开启                                                         |
+| 快手     | [校招提前批](https://campus.kuaishou.cn/#/campus/index)                                                   | 2025/7/20  | 全国                                                             | 2026届校招提前批已开启                                                         |
+
+## 校招正式批
+
+### 互联网 && AI
+
+| 公司     | 招聘状态&&投递链接                                                                                        | 更新日期   | 地点                                                             | 备注                                                                           |
+| -------- | --------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 阿里巴巴 | [校招正式批](https://talent.alibaba.com/campus/position-list?campusType=graduate)                         | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 字节跳动 | [校招正式批](https://jobs.bytedance.com/zh/position)                                                      | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 美团     | [校招正式批](https://zhaopin.meituan.com/web/campus)                                                      | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 网易     | [校招正式批](https://game.campus.163.com/position)                                                        | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 华为     | [校招正式批](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)                     | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 小米     | [校招正式批](https://xiaomi.jobs.f.mioffice.cn/campus/)                                                   | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 拼多多   | [校招正式批](https://careers.pddglobalhr.net/campus)                                                      | 2025/7/1   | 全国                                                             | 2026届校招正式批预计7月开启                                                     |
+| 小红书   | [校招正式批](https://job.xiaohongshu.com/campus)                                                          | 2025/7/1   | 北京，上海，武汉，广州，深圳，杭州                               | 2026届校招正式批预计7月开启                                                     |
+| 哔哩哔哩 | [校招正式批](https://jobs.bilibili.com/campus/positions?type=1)                                           | 2025/7/1   | 北京，上海，芜湖，重庆                                           | 2026届校招正式批预计7月开启                                                     |
+| 360      | [校招正式批](https://360campus.zhiye.com/jobs)                                                            | 2025/7/1   | 北京，南京，沈阳，深圳                                           | 2026届校招正式批预计7月开启                                                     |
+| vivo     | [校招正式批](https://hr.vivo.com)                                                                         | 2025/7/1   | 东菀，北京，南京，上海，深圳，杭州，重庆，西安                   | 2026届校招正式批预计7月开启                                                     |
+| oppo     | [校招正式批](https://careers.oppo.com/university/oppo/campus/post)                                        | 2025/7/1   | 深圳，东莞，北京，上海，成都，南京，重庆，杭州，武汉，西安，南昌 | 2026届校招正式批预计7月开启                                                     |
 
 ### 外企（中国分部）
 
 | 公司   | 招聘状态&&投递链接                                                                                                                                                                          | 更新日期  | 地点           | 备注       |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------- | ---------- |
-| 微软   | [校招](https://jobs.careers.microsoft.com/global/en/search?lc=China&lc=Hong%20Kong%20SAR&lc=Taiwan&exp=Students%20and%20graduates&et=Graduate&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true) | 2025/7/1  | 北京/苏州      | 2026届校招预计7月开启 |
-| 苹果   | [校招](https://jobs.apple.com/zh-cn/search?location=china-mainland)                                                                                                                        | 2025/7/1  | 北京/上海      | 2026届校招预计7月开启 |
-| 英特尔 | [校招](https://chinacampus.jobs.intel.cn/)                                                                                                                                                 | 2025/7/1  | 北京/上海/成都 | 2026届校招预计7月开启 |
-| IBM    | [校招](https://careers.ibm.com/job/search)                                                                                                                                                 | 2025/7/1  | 北京/上海      | 2026届校招预计7月开启 |
-| 高通   | [校招](https://www.qualcomm.cn/company/careers)                                                                                                                                            | 2025/7/1  | 北京/上海      | 2026届校招预计7月开启 |
-| 戴尔   | [校招](https://jobs.dell.com/search-jobs/China)                                                                                                                                            | 2025/7/1  | 北京/厦门/成都 | 2026届校招预计7月开启 |
+| 微软   | [校招正式批](https://jobs.careers.microsoft.com/global/en/search?lc=China&lc=Hong%20Kong%20SAR&lc=Taiwan&exp=Students%20and%20graduates&et=Graduate&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true) | 2025/7/1  | 北京/苏州      | 2026届校招正式批预计7月开启 |
+| 苹果   | [校招正式批](https://jobs.apple.com/zh-cn/search?location=china-mainland)                                                                                                                        | 2025/7/1  | 北京/上海      | 2026届校招正式批预计7月开启 |
+| 英特尔 | [校招正式批](https://chinacampus.jobs.intel.cn/)                                                                                                                                                 | 2025/7/1  | 北京/上海/成都 | 2026届校招正式批预计7月开启 |
+| IBM    | [校招正式批](https://careers.ibm.com/job/search)                                                                                                                                                 | 2025/7/1  | 北京/上海      | 2026届校招正式批预计7月开启 |
+| 高通   | [校招正式批](https://www.qualcomm.cn/company/careers)                                                                                                                                            | 2025/7/1  | 北京/上海      | 2026届校招正式批预计7月开启 |
+| 戴尔   | [校招正式批](https://jobs.dell.com/search-jobs/China)                                                                                                                                            | 2025/7/1  | 北京/厦门/成都 | 2026届校招正式批预计7月开启 |
 
 ### 游戏公司
 
